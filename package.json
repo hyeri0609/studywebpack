@@ -1,0 +1,31 @@
+{
+  "name": "studypixi",
+  "version": "1.0.0",
+  "description": "studying pixijs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyeri0609/studypixi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyeri0609/studypixi/issues"
+  },
+  "homepage": "https://github.com/hyeri0609/studypixi#readme",
+  "devDependencies": {
+    "awesome-typescript-loader": "^3.2.3",
+    "mocha": "^4.0.1",
+    "source-map-loader": "^0.2.2",
+    "typescript": "^2.5.3"
+  },
+  "eslintConfig": {
+    "env": {
+      "browser": true,
+      "node": true
+    }
+  }
+}
